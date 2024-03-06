@@ -6,7 +6,7 @@ h1 {
   cursor: pointer;
   border: 1px solid rgb(100, 100, 255);
   background-color: white;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 h1:hover {
